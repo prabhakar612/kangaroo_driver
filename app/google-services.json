@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "898421467981",
+    "firebase_url": "https://kangaroorideshare-aa5ec-default-rtdb.firebaseio.com",
+    "project_id": "kangaroorideshare-aa5ec",
+    "storage_bucket": "kangaroorideshare-aa5ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898421467981:android:6713dace6b3ee45c8da504",
+        "android_client_info": {
+          "package_name": "com.kangaroorozgar.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898421467981-4r8l4gavfigl6ggi36b1afunqlc5er8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiy_fPL9GORhR8MZGSWTlrmBDRAxiI0JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898421467981-4r8l4gavfigl6ggi36b1afunqlc5er8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898421467981:android:b0b3258766e2861e8da504",
+        "android_client_info": {
+          "package_name": "com.userapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898421467981-4r8l4gavfigl6ggi36b1afunqlc5er8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiy_fPL9GORhR8MZGSWTlrmBDRAxiI0JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898421467981-4r8l4gavfigl6ggi36b1afunqlc5er8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
